@@ -1097,4 +1097,4 @@ if __name__ == '__main__':
         exit(1)
 
     bot = TelegramBot()
-    bot.run_polling()t.run_polling()
+    bot.run_polling()
